@@ -1,2 +1,5 @@
-# EDX-GIT
-Repo for learning gits
+**# EDX-GIT**
+Storing of files in repo
+changing the contents in repo called commit
+
+
